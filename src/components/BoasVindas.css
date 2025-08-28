@@ -1,0 +1,53 @@
+.welcome-container {
+  padding: 1rem 1.5rem;
+  line-height: 1.8;
+  color: #a0aec0;
+}
+
+.whoami-animation {
+  font-family: 'Consolas', 'Monaco', monospace;
+  font-size: 1.1rem;
+  white-space: pre-line;
+  margin-bottom: 2rem;
+}
+
+.whoami-animation span:last-child {
+  color: #00ff9d;
+  font-weight: bold;
+}
+
+.welcome-title {
+  color: #ffbd2e;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #4a5568;
+  margin-bottom: 1.5rem;
+}
+
+.info-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.info-list li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  color: #e2e8f0;
+}
+
+.info-list .icon {
+  font-size: 1.2rem;
+}
+
+.navegue-text {
+  color: #00ff9d;
+  font-style: italic;
+}
