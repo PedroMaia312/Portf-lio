@@ -1,6 +1,6 @@
 Portfólio criado durante a disciplina de Laboratório de Desenvolvimento de Software
 
-Link de acesso : [link_site](https://portfolio-pedro-maia.vercel.app/)
+Link de acesso : [](https://portfolio-pedro-maia.vercel.app/)
 
 Tecnologias Utilizadas: Inicialmente, foram utilizados JS,HTML e CSS. Posteriormente o projeto evoluiu para Vite usando React JSX.
 
